@@ -1,0 +1,8 @@
+# Set all Python files to use LF
+*.py text eol=lf
+
+# Set all text files to LF
+*.txt text eol=lf
+
+# Use CRLF for Windows-specific files
+*.bat text eol=crlf
