@@ -25,4 +25,3 @@ class Alien(Sprite):
         """draw the alien at its current location"""
 
         self.screen.blitme(self.image, self.rect)
-        
