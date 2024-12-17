@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installers
+*.whl
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# Temporary files and caches
+*.tmp
+*.temp
+*.bak
+*.swp
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.iml
+*.editorconfig
+
+# Test / Coverage reports
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Game assets cache (optional)
+assets/__pycache__/
+assets/tmp/
+assets/*.bak
+
+# Ignore numpy or pygame temp files (if created)
+*.npy
+*.npz
